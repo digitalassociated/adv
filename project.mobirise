@@ -370,8 +370,8 @@
           "_name": "content5",
           "_anchor": "content5-4",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
@@ -746,7 +746,7 @@
             "showMeta": true
           },
           "title": "Il professionista è colui che",
-          "meta": "crea un sistema con una strategia chiara.<br>Crea Facebook, il blog e la newsletter per farle lavorare all'unisono con uno scopo."
+          "meta": "crea un sistema con una strategia chiara.<br>Crea Facebook, il blog e la newsletter per farli lavorare all'unisono con uno scopo."
         },
         {
           "_tags": [
