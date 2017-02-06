@@ -625,3 +625,253 @@ h6,
 #contacts1-l P {
   text-align: left;
 }
+
+
+
+
+#menu-m .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-m .navbar-caption {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-m .navbar-toggler {
+  color: #ffffff;
+}
+#menu-m .link,
+#menu-m .dropdown-item {
+  color: #ffffff;
+}
+#menu-m .link {
+  font-size: 0.75rem;
+}
+#menu-m .dropdown-item,
+#menu-m .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-m .link:hover,
+#menu-m .dropdown-item:hover,
+#menu-m .link:focus,
+#menu-m .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-m .link[aria-expanded="true"],
+#menu-m .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-m .nav-dropdown-sm .link:focus,
+#menu-m .nav-dropdown-sm .link:hover,
+#menu-m .nav-dropdown-sm .dropdown-item:focus,
+#menu-m .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-m .navbar,
+#menu-m .nav-dropdown-sm,
+#menu-m .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-m .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-m .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-m .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-m .bg-color.transparent.opened .link:hover,
+#menu-m .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-m .link[aria-expanded="true"],
+#menu-m .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#menu-m.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-m .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-m .close-icon::before,
+#menu-m .close-icon::after {
+  background-color: #ffffff;
+}
+#header1-n .mbr-section-lead {
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-n .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box3-o .mbr-section-title,
+#msg-box3-o p {
+  color: #000;
+}
+#msg-box3-o .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#features2-p .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #141414;
+}
+#header3-q .mbr-section-title,
+#header3-q .mbr-section-subtitle {
+  text-align: center;
+}
+#content5-r .mbr-section-title,
+#content5-r p {
+  color: #fff;
+}
+#content5-r DIV {
+  color: #ffffff;
+}
+#content5-s .mbr-section-title,
+#content5-s p {
+  color: #fff;
+}
+#content5-s .mbr-section-title {
+  text-align: right;
+  color: #000000;
+}
+#content5-s P {
+  text-align: right;
+  color: #000000;
+}
+#content5-t .mbr-section-title,
+#content5-t p {
+  color: #fff;
+}
+#content5-u .mbr-section-title,
+#content5-u p {
+  color: #fff;
+}
+#content5-u .mbr-section-title {
+  color: #000000;
+  text-align: right;
+}
+#content5-u P {
+  color: #000000;
+  text-align: right;
+}
+#msg-box8-v .mbr-section-title,
+#msg-box8-v p {
+  color: #fff;
+}
+#msg-box8-v .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box8-v .lead P {
+  color: #ffffff;
+}
+#header3-19 .mbr-section-title,
+#header3-19 .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-w P {
+  text-align: left;
+  font-size: 21px;
+}
+#header3-1a .mbr-section-title,
+#header3-1a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-x .mbr-section-title,
+#header3-x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-x H3 {
+  color: #ffffff;
+}
+#content1-y P {
+  font-size: 21px;
+  text-align: center;
+}
+#header3-z .mbr-section-title,
+#header3-z .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-z H3 {
+  color: #ffffff;
+}
+#header3-z SMALL {
+  color: #ffffff;
+}
+#msg-box8-10 .mbr-section-title,
+#msg-box8-10 p {
+  color: #fff;
+}
+#msg-box8-10 .mbr-section-title {
+  color: #000000;
+}
+#msg-box8-10 .lead P {
+  color: #000000;
+}
+#content5-1b .mbr-section-title,
+#content5-1b p {
+  color: #fff;
+}
+#content5-1b .mbr-section-title {
+  text-align: center;
+}
+#content5-1b DIV {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box8-12 .mbr-section-title,
+#msg-box8-12 p {
+  color: #fff;
+}
+#msg-box8-12 .lead P {
+  font-size: 21px;
+}
+#header3-13 .mbr-section-title,
+#header3-13 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-13 SMALL {
+  color: #000000;
+}
+#buttons1-14 .btn {
+  font-size: 14px;
+}
+#header3-1c .mbr-section-title,
+#header3-1c .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box8-1d .mbr-section-title,
+#msg-box8-1d p {
+  color: #fff;
+}
+#msg-box8-1d .lead P {
+  font-size: 20px;
+}
+#header3-1e .mbr-section-title,
+#header3-1e .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box8-1f .mbr-section-title,
+#msg-box8-1f p {
+  color: #fff;
+}
+#header3-1h .mbr-section-title,
+#header3-1h .mbr-section-subtitle {
+  text-align: center;
+}
+#features4-1g .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-1g .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#form1-16 .form-control-label {
+  color: #ffffff;
+}
+#form1-16 .mbr-section-title {
+  color: #ffffff;
+}
+#form1-16 SMALL {
+  color: #ffffff;
+}
+#contacts1-17 P {
+  text-align: left;
+}
